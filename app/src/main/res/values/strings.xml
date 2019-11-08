@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="staff_details">Staff Details</string>
+    <string name="count">Count</string>
+    <string name="Deleted">Deleted</string>
+    <string name="designation">Designation</string>
+    <string name="name">Name</string>
+    <string name="nameValidation">Please enter the name...</string>
+    <string name="designationValidation">Please enter the designation...</string>
+    <string name="countValidation">Please enter the count...</string>
+    <string name="Data_successfully_added">Data successfully added...</string>
+    <string name="EnterDetails">Enter Details</string>
+    <string name="Save">Save</string>
+    <string name="RenjithPk">Renjith Pk</string>
+    <string name="CEO">CEO</string>
+    <string name="Dataupdatedsuccessfully">Data updated successfully</string>
+    <string name="BackExit">Please click BACK again to exit</string>
+    <string name="update_staff_details">Update Staff Details</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="staff_name">Staff Name</string>
+
+
+</resources>
